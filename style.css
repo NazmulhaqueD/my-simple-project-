@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+.container{
+    background-color: silver;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-align: justify;
+}
+.container h1{
+    text-align: center;
+}
